@@ -34,6 +34,6 @@ El almacenamiento se realiza en un clúster Serverless de InfluxDB Cloud alojado
 
 # Ejecutar en consola
 ```bash
-simulador_clima.py
+python simulador_clima.py
 ```
 El script comenzará a enviar ráfagas de datos en tiempo real de Lima, Cusco e Iquitos cada 2 segundos. Donde se vera los mensajes de confirmación impresos en la consola.
