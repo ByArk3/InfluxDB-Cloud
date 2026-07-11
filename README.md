@@ -30,7 +30,7 @@ El almacenamiento se realiza en un clúster Serverless de InfluxDB Cloud alojado
 * **URL del Servidor:** https://us-east-1-1.aws.cloud2.influxdata.com
 * **Organization ID (Org):** 65f2216be0d2cfc9
 * **Bucket de Destino:** clima_bucket
-* **Token de Autenticación:** [Reemplazar con tu API Token generado en InfluxDB Cloud]
+* **Token de Autenticación:** PRIVADO
 
 # Ejecutar en consola
 ```bash
