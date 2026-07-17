@@ -3,3 +3,4 @@ from(bucket: "clima_bucket")
   |> filter(fn: (r) => r["_measurement"] == "clima_sensores")
   |> filter(fn: (r) => r["_field"] == "temperatura")
   |> group(columns: ["ciudad"])
+  
